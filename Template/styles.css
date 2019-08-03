@@ -1,0 +1,34 @@
+body {
+  margin: 0 200px 0 200px;
+  background: linear-gradient(#546E7A, #455A64);
+}
+
+#Content {
+  background: #f2f1f2;
+  margin: 20px 50px;
+  padding: 20px 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-image: linear-gradient(#E0E0E0, #BDBDBD);
+}
+
+#Inner {
+  text-align: center;
+}
+
+#Inner {
+  padding-top: 40px;
+}
+
+#Inner p {
+  padding: 20px 150px;
+}
+
+#Inner hr {
+  padding: 0 15px 0 15px;
+}
+
+#Inner h3 {
+  text-align: left;
+  padding: 10px 150px;
+}
+
