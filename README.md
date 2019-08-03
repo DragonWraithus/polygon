@@ -1,6 +1,8 @@
 # polygon
 Drag and Drop website builder.
 
+Teamlead is moomooCow.
+Backend will be python.
 This readme assumes this project will ultimately be a website, or a web app. Therefore,
 
 Unless otherwise agreed upon:
@@ -10,22 +12,21 @@ TODO:
 
 Acquire teammates, and coresponding github handles.
 
-Select a teamleader.
 Assign team roles and tasks.
 
-Decide on backend. Current suggestions:
-1) Elixir
-2) React
-3) Firebase
-4) Rust
+Assign reading material and timeframe for completion.
 
-Once language(s) selected, assign reading material and timeframe for completion.
-
-Create generic site templates.
+Create two more generic site templates.
 
 Design/prototype site editor, layout, and tools.
 
 Account based?
 Local save/load?
+
+Add/choose a style guide.
+Code reviews.
+Automated tests.(Unit test minimum)
+CI/CD tool choice. (TravisCI suggested)
+Add merge protection.
 
 Preferably create a road map.
