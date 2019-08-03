@@ -24,8 +24,12 @@ Account based?
 Local save/load?
 
 Add/choose a style guide.
+
 Code reviews.
+
 Automated tests.(Unit test minimum)
+
 CI/CD tool choice. (TravisCI suggested)
+
 
 Preferably create a road map.
