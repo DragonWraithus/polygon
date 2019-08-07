@@ -1,0 +1,57 @@
+header {
+  filter: invert(100%);
+}
+
+#row {
+  margin: 40px 0 40px 0;
+  background: #263238;
+}
+
+#row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+}
+
+.card {
+  float: left;
+  margin: 25px 5px 25px 55px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+  transition: 0.3s;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.card a, p, h4{
+  padding: 0 2px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,4);
+}
+
+img {
+  border-radius: 10px 10px 0 0;
+}
+
+.container {
+  padding: 20px 20px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  padding-bottom: 25px;
+  width: 100%;
+  background-color: rgba(33,33,33 ,1);
+  color: white;
+  text-align: center;
+}
